@@ -1,5 +1,6 @@
 # NSFS
-
+<html>
+<body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <div class="container-fluid">
     <a class="navbar-brand" href="#">Navbar</a>
@@ -49,3 +50,5 @@
     <li><a class="dropdown-item" href="#">Separated link</a></li>
   </ul>
 </div>
+</body>
+</html>
